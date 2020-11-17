@@ -4,7 +4,7 @@ metadata:
   name: pal-tracker
 spec:
   rules:
-    - host: UNIQUE-DOMAIN-FOR-DEVELOPMENT-ENVIRONMENT
+    - host: development.18.144.68.245.nip.io
       http:
         paths:
           - path: /
